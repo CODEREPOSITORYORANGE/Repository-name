@@ -1,2 +1,2 @@
-# Repository_name
+# Repository-name
 project description
